@@ -1,0 +1,10 @@
+streamlit==1.14.0
+numpy==1.23.4
+pandas==1.5.1
+openpyxl==3.0.10
+python-dotenv==0.21.0
+plotly==4.14.3
+streamlit-aggrid==0.3.3
+googlemaps == 4.7.3
+joblib == 1.2.0
+xlsxwriter == 3.0.3
